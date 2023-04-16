@@ -185,7 +185,7 @@ savefig(plt2, "lab03_2.png")
 
 ## Результаты работы кода на OpenModelica
 
-На графиках на рис. 3 и 4, построенных с помощью OpenModelica изображены графики, аналогичные графикам @fig:002 и @fig:003 соответственно.
+На графиках на рис. 3 и 4, построенных с помощью OpenModelica изображены графики.
 
 !["Полученный график OpenModelica. Первый случай"](https://github.com/dmitryabushek/study_2022-2023__matmod/blob/master/Лабораторная%20работа%203/images/lab31mo.png)
 
